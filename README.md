@@ -1,4 +1,4 @@
-# Community College Trasfer Rate Summary
+# Community College Transfer Rate Summary
 
 A GUI application that lets the user look up the transfer rate of CA community colleges to the CSUs.
 
